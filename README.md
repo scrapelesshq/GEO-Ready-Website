@@ -3,7 +3,7 @@
 <h1 align="center">GEO-Ready Website</h1>
 
 <p align="center">
-  <strong>GEO-Ready Website is an AI-driven tool built on top of [Scrapeless](https://app.scrapeless.com/passport/register?utm_source=official&utm_term=githubopen) that enables automated monitoring and auditing of websites for geo-specific indexing and local SEO readiness.</strong><br/>
+  <strong>GEO-Ready Website is an AI-driven tool built on top of Scrapeless that enables automated monitoring and auditing of websites for geo-specific indexing and local SEO readiness.</strong><br/>
 </p>
 
   <p align="center">
@@ -38,10 +38,11 @@
 
 ## Installation
 
-Clone the repository and install dependencies:
+### First, install the SDK
 
 ```bash
-git clone https://github.com/scrapelesshq/GEO-Ready-Website
-cd <your-repo-folder>
-npm install
+# Install the official Scrapeless SDK
+npm install @scrapeless-ai/sdk
 ```
+
+### Click [here](https://app.scrapeless.com/passport/register?utm_source=official&utm_term=githubopen) to obtain your API-KEY
