@@ -77,36 +77,23 @@ At the end there is a placeholder section for the HTML report preview — replac
 
 ---- GEO Audit Summary ----
 ```
-URL: <website_url>
-Scanned at: <timestamp>
-SEO Score (static): <number>%
-GEO Score (calc): <number>%
-
-Top checklist (base checks):
-Metadata: Title <✓/✗>, Description <✓/✗>
-JSON-LD count: <number>
-Robots.txt in page HTML: <Yes/No>
-Canonical: <found/not found>
-Hreflang count: <number>
-Local schema detected: <Yes/No>
-Images ALT ratio: <number>%
-Reading ease (Flesch): <number> (<Easy/Moderate/Difficult>)
-
-AI Suggestions (requires OPENAI_API_KEY / CHATGPT_KEY):
-<AI suggestion 1>
-<AI suggestion 2>
-<AI suggestion 3>
-<AI suggestion 4>
-
-Reports:
-JSON: <path_to_json_report>
-HTML: <path_to_html_report>
-
-Notes:
-
-Base GEO/SEO checks run without any OpenAI key.
-AI Suggestions appear only if OPENAI_API_KEY or CHATGPT_KEY is set.
-HTML report preview placeholder: <path_to_html_report>
+URL: 
+Pages found: 
+Avg (prelim) SEO Score: 
+GEO SCORE: 
+Crawlability (calc): 
+Accessibility (ARIA count): 
+Sitemaps found: 
+Top issues (top 10): [
+  { issue: '', count: 1 },
+  { issue: '', count: 1 },
+  { issue: '', count: 1 },
+  { issue: '', count: 1 },
+  { issue: '', count: 1 },
+  { issue: '', count: 1 },
+  { issue: '', count: 1 },
+  { issue: '', count: 1 }
+]
 ```
 
 ---- Report Preview ----
