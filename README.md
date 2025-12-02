@@ -1,6 +1,6 @@
 </p>
 
-<h1 align="center">GEO-Ready Website</h1>
+<h1 align="center">GEO Ready Website</h1>
 
 <p align="center">
   <strong>GEO-Ready Website is an AI-driven tool built on top of Scrapeless that enables automated monitoring and auditing of websites for geo-specific indexing and local SEO readiness.</strong><br/>
