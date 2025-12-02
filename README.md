@@ -108,3 +108,4 @@ HTML report preview placeholder: <path_to_html_report>
 
 ---- Report Preview ----
 
+<img src="https://github.com/user-attachments/assets/6024406a-040d-4d8e-a5de-24723972d53c" alt="geoaudit" style="width:100%; height:auto;" />
