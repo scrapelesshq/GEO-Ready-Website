@@ -62,6 +62,7 @@ Important: after configuring ``.env``, you need to edit ``geoaudit.js`` to repla
 |-----------------------|-------------------------------------------------------------------------------------------------|
 | `OPENAI_API_KEY`      | Your OpenAI API key. Example: `sk-xxxxxxxxxxxxxxxxxxxxxxxxxxxx`                                 |
 | `GENERATE_PDF`        | Whether to generate PDF reports. Set to `1` or `true` to enable, `0` or `false` to disable    |
+| `TARGET_URL`          | The URL of the website to audit. Example: `https://www.example.com/`                            |
 
 > **Note:** The `OPENAI_API_KEY` is only required if you want AI-powered analysis or text generation features.
 
