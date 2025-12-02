@@ -1,6 +1,6 @@
-</p>
+<img width="3168" height="1344" alt="GEO Ready Website" src="https://github.com/user-attachments/assets/c59bca74-cc1a-4e94-b1c4-ddeabac0b181" />
 
-<h1 align="center">GEO Ready Website</h1>
+</p>
 
 <p align="center">
   <strong>GEO Ready Website is an AI-driven tool built on top of Scrapeless that enables automated monitoring and auditing of websites for geo-specific indexing and local SEO readiness.</strong><br/>
