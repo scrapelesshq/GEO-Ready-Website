@@ -1,12 +1,28 @@
-# GEO-Ready Website
+</p>
 
-**AI-powered Audit for GEO Readiness & Local Indexing**
+<h1 align="center">GEO-Ready Website</h1>
 
----
+<p align="center">
+  <strong>GEO-Ready Website is an AI-driven tool built on top of [Scrapeless](https://app.scrapeless.com/passport/register?utm_source=official&utm_term=githubopen) that enables automated monitoring and auditing of websites for geo-specific indexing and local SEO readiness.</strong><br/>
+</p>
 
-## Overview
-
-GEO-Ready Website is an AI-driven tool built on top of [Scrapeless](https://www.scrapeless.com/) that enables automated monitoring and auditing of websites for geo-specific indexing and local SEO readiness. It can quickly check if your website content is being correctly indexed in different geographic locations, helping businesses optimize for global and local search visibility.
+  <p align="center">
+    <a href="https://www.youtube.com/@Scrapeless" target="_blank">
+      <img src="https://img.shields.io/badge/Follow%20on%20YouTuBe-FF0033?style=for-the-badge&logo=youtube&logoColor=white" alt="Follow on YouTuBe" />
+    </a>
+    <a href="https://discord.com/invite/xBcTfGPjCQ" target="_blank">
+      <img src="https://img.shields.io/badge/Join%20our%20Discord-5865F2?style=for-the-badge&logo=discord&logoColor=white" alt="Join our Discord" />
+    </a>
+    <a href="https://x.com/Scrapelessteam" target="_blank">
+      <img src="https://img.shields.io/badge/Follow%20us%20on%20X-000000?style=for-the-badge&logo=x&logoColor=white" alt="Follow us on X" />
+    </a>
+    <a href="https://www.reddit.com/r/Scrapeless" target="_blank">
+      <img src="https://img.shields.io/badge/Join%20us%20on%20Reddit-FF4500?style=for-the-badge&logo=reddit&logoColor=white" alt="Join us on Reddit" />
+    </a> 
+    <a href="https://app.scrapeless.com/passport/register?utm_source=official&utm_term=githubopen" target="_blank">
+      <img src="https://img.shields.io/badge/Official%20Website-12A594?style=for-the-badge&logo=google-chrome&logoColor=white" alt="Official Website"/>
+    </a>
+  </p>
 
 ---
 
