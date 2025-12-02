@@ -49,8 +49,9 @@ npm install @scrapeless-ai/sdk
 
 ```bash
 git clone https://github.com/scrapelesshq/GEO-Ready-Website.git
-cd GEO-Ready-Website/src
-npm install
+cd GEO-Ready-Website
 cp .env.example .env
+cd src
+npm install
 # edit .env and add at least SCRAPELESS_API_KEY=your_api_key_here
 ```
