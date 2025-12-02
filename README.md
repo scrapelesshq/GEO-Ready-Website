@@ -55,3 +55,12 @@ cd src
 npm install
 # edit .env and add at least SCRAPELESS_API_KEY=your_api_key_here
 ```
+
+Important: after configuring ``.env``, you need to edit ``geoaudit.js`` to replace placeholder values:
+
+| Field                 | Description                                                                                     |
+|-----------------------|-------------------------------------------------------------------------------------------------|
+| `OPENAI_API_KEY`      | Your OpenAI API key. Example: `sk-xxxxxxxxxxxxxxxxxxxxxxxxxxxx`                                 |
+| `GENERATE_PDF`        | Whether to generate PDF reports. Set to `1` or `true` to enable, `0` or `false` to disable    |
+
+> **Note:** The `OPENAI_API_KEY` is only required if you want AI-powered analysis or text generation features.
