@@ -61,7 +61,6 @@ Important: after configuring ``.env``, you need to edit ``geoaudit.js`` to repla
 | Field                 | Description                                                                                     |
 |-----------------------|-------------------------------------------------------------------------------------------------|
 | `OPENAI_API_KEY`      | Your OpenAI API key. Example: `sk-xxxxxxxxxxxxxxxxxxxxxxxxxxxx`                                 |
-| `GENERATE_PDF`        | Whether to generate PDF reports. Set to `1` / `true` to enable, `0` / `false` to disable        |
 | `TARGET_URL`          | The URL of the website to audit. Example: `https://www.example.com/`                            |
 | `AI_SNIPPET_MAX`      | Maximum number of characters extracted for AI analysis. Default: `12000`                        |
 | `CRAWL_LIMIT`         | Maximum number of pages to crawl per run. Example: `10`. Default: `undefined` (no limit)        |
