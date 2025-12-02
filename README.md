@@ -98,7 +98,7 @@ Top issues (top 10): [
 
 ---- Report Preview ----
 
-<img src="https://github.com/user-attachments/assets/6024406a-040d-4d8e-a5de-24723972d53c" 
+<img src="https://github.com/user-attachments/assets/c030274d-f32b-413c-99d1-e32dceb701ef"
      alt="geoaudit" 
      style="width:100vw; max-width:100%; height:auto; display:block;" />
 
