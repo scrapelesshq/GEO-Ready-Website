@@ -46,3 +46,11 @@ npm install @scrapeless-ai/sdk
 ```
 
 ### Click [here](https://app.scrapeless.com/passport/register?utm_source=official&utm_term=githubopen) to obtain your API-KEY
+
+```bash
+git clone https://github.com/scrapelesshq/GEO-Ready-Website.git
+cd GEO-Ready-Website/src
+npm install
+cp .env.example .env
+# edit .env and add at least SCRAPELESS_API_KEY=your_api_key_here
+```
